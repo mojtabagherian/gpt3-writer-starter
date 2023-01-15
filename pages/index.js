@@ -36,10 +36,10 @@ const callGenerateEndpoint = async () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Chat with me </h1>
+            <h1>GPT-3 Article Writer </h1>
           </div>
           <div className="header-subtitle">
-            <h2> Input the your message here, I will answer (≧▽≦)</h2>
+            <h2> Input your keywords or your sentence, then I write an article for  you.</h2>
           </div>
         </div>
 	<div className="prompt-container">
